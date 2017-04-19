@@ -1,0 +1,21 @@
+<svg height="286" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="286" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">12 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ warehouse@2.2.0 </tspan>
+<tspan x="10" y="90">  ├── bluebird@3.5.0 </tspan>
+<tspan x="10" y="106">  ├─┬ cuid@1.3.8 </tspan>
+<tspan x="10" y="122">  │ ├── browser-fingerprint@0.0.1 </tspan>
+<tspan x="10" y="138">  │ ├── core-js@1.2.7 </tspan>
+<tspan x="10" y="154">  │ └── node-fingerprint@0.0.2 </tspan>
+<tspan x="10" y="170">  ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="186">  ├─┬ is-plain-object@2.0.1 </tspan>
+<tspan x="10" y="202">  │ └── isobject@1.0.2 </tspan>
+<tspan x="10" y="218">  ├─┬ JSONStream@1.3.1 </tspan>
+<tspan x="10" y="234">  │ ├── jsonparse@1.3.0 </tspan>
+<tspan x="10" y="250">  │ └── through@2.3.8 </tspan>
+<tspan x="10" y="266">  └── lodash@4.17.4</tspan>
+</text>
+</svg>
